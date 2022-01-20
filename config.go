@@ -1,3 +1,6 @@
 package niu_config
 
-BASE_URL = "http://localhost:8000/"
+func getBaseUrl()
+{
+	return "http://localhost:8000/"
+}
